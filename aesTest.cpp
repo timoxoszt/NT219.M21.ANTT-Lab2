@@ -14,7 +14,7 @@ int main(int argc, char* argv[]) {
     //
     // String and Sink setup
     //
-    std::string plaintext = "Vi Minh Tien - 20520810";
+    std::string plaintext = "Tra My ";
     std::string ciphertext;
     std::string decryptedtext;
 
