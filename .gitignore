@@ -25,6 +25,7 @@
 *.la
 *.a
 *.lib
+*.key
 
 # Executables
 *.exe
@@ -32,3 +33,6 @@
 *.app
 
 AesTest
+
+.vscode
+AES_key.key
