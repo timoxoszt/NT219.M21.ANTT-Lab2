@@ -23,3 +23,6 @@ g++ -g3 -ggdb -O0 -Wall -Wextra -Wno-unused -o AES_CBC sample_AES_CBC.cpp -lcryp
 
 ### Một số lưu ý:
 - Trong quá trình compile có thể xuất hiện `Warning` tuy nhiên khi thực thi file không bị ảnh hưởng.
+
+### Kết quả
+![sample_AES_CBC.png](images/sample_AES_CBC.png?raw=true "sample_AES_CBC")
